@@ -1,0 +1,25 @@
+{
+  "name": "shopping-list-generator",
+  "version": "1.0.0",
+  "description": "This is a small Python script that reads from the user (like me) a shopping list and send it to a Habitica to-do item using the Habitica API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catalinp86/shopping-list-generator.git"
+  },
+  "author": "Catalin Popescu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/catalinp86/shopping-list-generator/issues"
+  },
+  "homepage": "https://github.com/catalinp86/shopping-list-generator#readme",
+  "keywords": [
+    "habitica",
+    "groceries",
+    "tasks",
+    "todo"
+  ]
+}
